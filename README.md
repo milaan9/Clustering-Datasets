@@ -10,7 +10,7 @@ This repository contains the collection of UCI (real-life)datasets and Synthetic
 ### Artificial data
 
 <a href="https://github.com/milaan9/Clustering-Datasets/tree/master/02.%20Synthetic/2d-10c.arff"><img src="https://github.com/milaan9/Clustering-Datasets/blob/master/02.%20Synthetic/2d-10c.png" title="2d-10c" width="239px" style="max-width: 100%;float:left;"/></a>
-<a href="https://github.com/milaan9/Clustering-Datasets/tree/master/02.%20Synthetic/2d-20c-no0.arff"><img src="https://github.com/milaan9/Clustering-Datasets/blob/master/02.%20Synthetic/2d-20c.png" title="2d-20c" width="239px" style="max-width: 100%;float:left;"/></a>
+<a href="https://github.com/milaan9/Clustering-Datasets/tree/master/02.%20Synthetic/2d-20c.arff"><img src="https://github.com/milaan9/Clustering-Datasets/blob/master/02.%20Synthetic/2d-20c.png" title="2d-20c" width="239px" style="max-width: 100%;float:left;"/></a>
 <a href="https://github.com/milaan9/Clustering-Datasets/tree/master/02.%20Synthetic/2d-3c.arff"><img src="https://github.com/milaan9/Clustering-Datasets/blob/master/02.%20Synthetic/2d-3c.png" title="2d-3c" width="239px" style="max-width: 100%;float:left;"/></a>
 <a href="https://github.com/milaan9/Clustering-Datasets/tree/master/02.%20Synthetic/2d-4c_1.arff"><img src="https://github.com/milaan9/Clustering-Datasets/blob/master/02.%20Synthetic/2d-4c_1.png "title="2d-4c" width="239px" style="max-width: 100%;float:left;"/></a>
 <a href="https://github.com/milaan9/Clustering-Datasets/tree/master/02.%20Synthetic/2d-4c_2.arff"><img src="https://github.com/milaan9/Clustering-Datasets/tree/master/02.%20Synthetic/2d-4c_2.png" title="2d-4c" width="239px" style="max-width: 100%;float:left;"/></a>

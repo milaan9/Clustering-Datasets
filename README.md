@@ -1,7 +1,5 @@
 # Clustering-Datasets
 
-# Datasets
-
 This repository contains the collection of UCI (real-life)datasets and Synthetic (artificial) datasets(with cluster labels).
 
   * [UCI (real-world) datasets](https://github.com/milaan9/Clustering-Datasets/tree/master/01.%20UCI)

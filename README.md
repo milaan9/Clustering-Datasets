@@ -147,7 +147,7 @@ Go [**`here`**](https://github.com/milaan9/Clustering-Datasets) if you aren't he
 
 1. Go [**`here`**](https://github.com/milaan9/Clustering-Datasets) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/Clustering-Datasets/archive/refs/heads/main.zip).
 
-    ![Download ZIP](img/dnld_rep.png) 
+    ![Download ZIP](dnld_rep.png) 
 
 3. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     

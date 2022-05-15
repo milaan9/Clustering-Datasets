@@ -1,6 +1,6 @@
 <p align="center"> 
 <a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
-<a href="https://github.com/milaan9/Clustering-Datasets/graphs/last_created"><img src="https://badges.pufler.dev/created/milaan9/Clustering-Dataset scolorB=ff8000&style=flat" alt="Last Commit"/></a>
+<a href="https://github.com/milaan9/Clustering-Datasets/graphs/last_created"><img src="https://badges.pufler.dev/created/milaan9/Clustering-Dataset.svg? colorB=ff8000&style=flat" alt="Last Commit"/></a>
 <a href="https://github.com/milaan9/Clustering-Datasets/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/Clustering-Datasets.svg?colorB=ff8000&style=flat" alt="Last Commit"/></a>
 <a href="https://github.com/milaan9/Clustering-Datasets/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/Clustering-Datasets.svg?colorB=teal&style=flat" /></a> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2FClustering-Datasets&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>

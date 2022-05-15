@@ -10,7 +10,7 @@
 <a href="https://github.com/milaan9/Clustering-Datasets/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/Clustering-Datasets.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/milaan9/Clustering-Datasets/issues"><img src="https://img.shields.io/github/issues/milaan9/Clustering-Datasets.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
 <a href="https://github.com/milaan9/Clustering-Datasets/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a> 
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://github.com/milaan9/Clustering-Datasets"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
 
